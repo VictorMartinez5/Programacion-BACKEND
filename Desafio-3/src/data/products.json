@@ -1,0 +1,46 @@
+[
+    {
+        "nombre": "Remera",
+        "precio": 7000,
+        "categoria": "remera",
+        "description": "Tela comoda y fresca para el verano",
+        "color": "Blanca",
+        "thumbnail": [],
+        "code": "REMERA",
+        "stock": 6,
+        "id": 1
+    },
+    {
+        "nombre": "Pantalon",
+        "precio": 6000,
+        "categoria": "pantalon",
+        "description": "Tela comoda para realizar ejercicio",
+        "color": "Negro",
+        "thumbnail": [],
+        "code": "PANTALON",
+        "stock": 3,
+        "id": 2
+    },
+    {
+        "nombre": "Hoddie",
+        "precio": 16000,
+        "categoria": "hoddie",
+        "description": "Tela comoda y abrigada para el frio",
+        "color": "Negro",
+        "thumbnail": [],
+        "code": "HODDIE",
+        "stock": 2,
+        "id": 3
+    },
+    {
+        "nombre": "Campera",
+        "precio": 12000,
+        "categoria": "campera",
+        "description": "Tela comoda y abrigada para el frio",
+        "color": "Azul",
+        "thumbnail": [],
+        "code": "CAMPERA",
+        "stock": 1,
+        "id": 4
+    }
+]
